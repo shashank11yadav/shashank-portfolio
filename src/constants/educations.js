@@ -1,0 +1,50 @@
+// Education data
+  export const educations = [
+    {
+      id: 1,
+      period: "SEPT 2023 - MAY 2025",
+      degree: "Master of Science in Computer Science",
+      institution: "Univerity of Massachusetts Boston",
+      institutionUrl: "https://www.umb.edu/",
+      gpa: "GPA: 3.79/4.0",
+      description:
+        "Pursuing an advanced curriculum with a strong focus on Human-Computer Interaction and Web Technologies. Engaged in cutting-edge research on designing accessible user interfaces for diverse user groups. Developed expertise in AI-driven systems, computational efficiency, and large-scale data processing.",
+      courses: [
+        "Neural Networks",
+        "Applied Machine Learning",
+        "Artificial Intelligence",
+        "Analysis of Algorithms",
+        "Computer Networks",
+        "Object Oriented Software Development",
+        "Database Application Development",
+        "Theory of Computation",
+      ],
+    },
+    {
+      id: 2,
+      period: "AUG 2018 - JUN 2022",
+      degree: "Bachelor of Technology in Computer Science and Engineering",
+      institution: "Graphic Era Hill University",
+      institutionUrl: "https://www.gehu.ac.in/",
+      gpa: "GPA: 8.59/10.0",
+      description:
+        "Built a strong foundation in computer science with a specialization in modern web development and UI engineering. Gained hands-on experience in scalable software architectures, cloud computing, and cybersecurity. Developed full-stack applications, leveraging advanced Java, Python, and distributed computing technologies",
+      courses: [
+        "Data Structures & Algorithms",
+        "Web Technology",
+        "Software Engineering",
+        "Database Management Systems",
+        "Python programming",
+        "Computer Organization",
+        "Operating Systems",
+        "Cloud Computing",
+        "Advance Java Programmming",
+        "Mobile Application Development",
+        "Network and Cyber Security",
+        "Distributed Systems",
+        "Compiler Design",
+        "Big Data Analytics",
+        "Internet of Things",
+      ],
+    },
+  ];
