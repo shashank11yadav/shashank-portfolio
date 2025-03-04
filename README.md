@@ -24,10 +24,6 @@
 ![EmailJS](https://img.shields.io/badge/EmailJS-red)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 
-**AI/ML Tools:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-
 ## 🖥️ Live Demo  
 [![Github](https://img.shields.io/badge/View_Live-Demo-000?style=for-the-badge)](https://shashank11yadav.github.io/shashank-portfolio/)
 
