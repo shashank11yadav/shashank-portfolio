@@ -253,6 +253,7 @@ const Portfolio = () => {
         {/* Contact Section */}
         <ContactSection ref={sectionRefs.contact} />
       </div>
+      
       <Toaster
         containerStyle={{
           top: "2rem",
