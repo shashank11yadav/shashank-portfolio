@@ -234,7 +234,7 @@ const Portfolio = () => {
       )}
 
       {/* Resume button */}
-      <WavyResumeButton resumeUrl="https://drive.google.com/file/d/1oUFJXMA3X8AtKctJeqwBAEGrW665dhcl/view?usp=sharing" />
+      <WavyResumeButton resumeUrl="https://drive.google.com/file/d/1kUL4MU6jjOG5LcZR-9yWCXKUhe4-BcV3/view?usp=sharing" />
 
       {/* Scrollable content */}
       <div className="content" ref={contentRef}>
