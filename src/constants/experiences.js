@@ -2,11 +2,37 @@
 export const experiences = [
     {
       id: 1,
-      period: "SEPT 2024 — PRESENT",
-      title: "Teaching Assistant",
+      period: "MAY 2025 — PRESENT",
+      title: "Software Development Engineer",
+      company: "ModelEarth",
+      description:
+        "Built enterprise-grade AI chat platform with 1,700+ files across Node.js/React/Python/Rust stack. Integrated 25+ LLM providers, 9 vector databases, and comprehensive document processing pipeline supporting PDF/audio/video formats. Architected modular platform with 10 specialized submodules for sustainability analytics, trade flow visualization, and ML-powered environmental modeling. Implemented real-time dashboards and interactive geographic data visualizations. Deployed containerized microservices with Docker/Kubernetes, automated Git submodule workflows, Prisma ORM database management, and enterprise user permissions supporting international deployment across AWS/GCP/Azure.",
+      skills: [
+        "Node.js",
+        "React",
+        "Python",
+        "Rust",
+        "LLM Integration",
+        "Vector Databases",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Prisma ORM",
+        "Microservices",
+        "AI/ML",
+        "Data Visualization",
+      ],
+      link: "https://model.earth/",
+    },
+    {
+      id: 2,
+      period: "SEPT 2024 — MAY 2025",
+      title: "Graduate Teaching Assistant",
       company: "University of Massachusetts Boston",
       description:
-        "Mentoring 70+ students in circuit analysis, optimizing troubleshooting strategies, and simplifying complex EE concepts. Conducting lab sessions, guiding students through simulations in Multisim and MATLAB. Assisting in grading and improving course materials for better comprehension.",
+        "Mentored 70+ students in circuit analysis, optimizing troubleshooting strategies, and simplifying complex EE concepts. Conducted lab sessions, guiding students through simulations in Multisim and MATLAB. Assisted in grading and improving course materials for better comprehension.",
       skills: [
         "Problem Solving",
         "MATLAB",
@@ -18,12 +44,12 @@ export const experiences = [
       link: "https://www.umb.edu/",
     },
     {
-      id: 2,
+      id: 3,
       period: "AUG 2022 — AUG 2023",
-      title: "Systems Engineer",
+      title: "Software Engineer",
       company: "Tata Consultancy Services",
       description:
-        "Enhanced productivity by 50% via automated data workflows, designed and implemented scalable test automation frameworks, and optimized data transfer with Struts. Developed and maintained enterprise applications ensuring system efficiency. Collaborated with cross-functional teams to improve software reliability and deployment processes.",
+        "Engineered and shipped 7 Java/Spring features for a core banking platform; built 120+ JUnit tests and Jenkins CI pipelines to boost reliability, lifting daily transaction capacity by 35%, sustaining 99.9% uptime, and cutting post-release defects by 40%. Led a zero-downtime migration from Oracle to PostgreSQL (20 GB), refactored 15K LOC and re-indexed queries to reduce licensing costs by 25% and trim critical page loads by 4s. Managed a 6-member Tier-2 support team for multinational banking clients, closing 90% of tickets within 24 hours; automated nightly reporting (Bash/CRON) and shipped dynamic JSP workflows under strict SLAs.",
       skills: [
         "Java",
         "SQL",
@@ -37,4 +63,25 @@ export const experiences = [
       ],
       link: "https://www.tcs.com/what-we-do/products-platforms/tcs-bancs",
     },
+    // {
+    //   id: 4,
+    //   period: "JUL 2020 — JUL 2021",
+    //   title: "Full Stack Engineer",
+    //   company: "Landmark Ventures",
+    //   description:
+    //     "Implemented Redis caching and debugged REST gateway APIs in a four-person squad, reducing checkout errors by 10% and API response times by 25%. Refactored PostgreSQL queries, automated Python scrapes of 500K records (saving 6 hrs/week), and built reusable React + TypeScript components to boost throughput and lift Lighthouse scores above 85.",
+    //   skills: [
+    //     "React",
+    //     "TypeScript",
+    //     "Python",
+    //     "PostgreSQL",
+    //     "Redis",
+    //     "REST APIs",
+    //     "Full-Stack Development",
+    //     "Performance Optimization",
+    //     "Data Scraping",
+    //     "Web Performance",
+    //   ],
+    //   link: "https://landmarkventures.com/",
+    // },
   ];

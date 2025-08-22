@@ -19,7 +19,7 @@ const Sidebar = ({ activeSection, scrollToSection }) => {
         </p>
         <div className="location">
           <MapPin size={16} />
-          <span>Boston, MA</span>
+          <span>San Jose, CA</span>
         </div>
       </div>
 

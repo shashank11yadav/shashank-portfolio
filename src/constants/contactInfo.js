@@ -18,6 +18,6 @@ export const contactInfo = [
     {
       icon: React.createElement(MapPin, { size: 20 }),
       label: "Location",
-      value: "Boston, MA",
+      value: "San Jose, CA",
     },
   ];

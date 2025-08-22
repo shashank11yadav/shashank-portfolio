@@ -8,37 +8,19 @@ const AboutSection = React.forwardRef((props, ref) => (
     </div>
 
     <p className="about-paragraph">
-      I'm a passionate software engineer with a keen interest in building
-      intelligent systems and optimizing digital experiences. With a
-      strong foundation in computer science and hands-on experience in
-      software development, I thrive at the intersection of engineering,
-      problem-solving, and innovation.
+      I'm a Software Development Engineer at ModelEarth, where I architect and build enterprise-grade AI platforms that bridge the gap between cutting-edge technology and real-world sustainability challenges. With a fresh Master's in Computer Science from UMass Boston and diverse experience across academia and industry, I specialize in creating scalable, intelligent systems that drive meaningful impact.
     </p>
 
     <p className="about-paragraph">
-      Currently, I'm a Teaching Assistant at the University of
-      Massachusetts Boston, where I guide students through complex
-      electrical engineering and computer science concepts. Previously, as
-      a Systems Engineer at Tata Consultancy Services, I worked on
-      large-scale enterprise applications, enhancing productivity through
-      automation, data optimization, and system reliability improvements.
+      At ModelEarth, I've engineered a comprehensive AI chat platform encompassing 1,700+ files across Node.js, React, Python, and Rust. My work involves integrating 25+ LLM providers, managing 9 vector databases, and building sophisticated document processing pipelines that handle everything from PDFs to audio and video content. I thrive on the complexity of modern distributed systems and the challenge of making AI accessible and practical for environmental analytics.
     </p>
 
     <p className="about-paragraph">
-      Beyond my professional roles, I’ve built AI-driven projects like
-      AccuScan (an OCR model with state-of-the-art accuracy) and
-      GestureSign (a real-time sign language recognition system). My
-      expertise spans Python, Java, React, Node.js, PyTorch, TensorFlow,
-      and more. I am deeply invested in machine learning, full-stack
-      development, and automation.
+      My journey has taken me from enterprise banking systems at TCS, where I led zero-downtime migrations and managed multinational client support, to the academic world as a Graduate Teaching Assistant, mentoring 70+ students in circuit analysis. Each role has shaped my perspective on technology's potential to solve complex problems, whether it's optimizing database performance or making AI-driven sustainability insights accessible to global organizations.
     </p>
 
     <p className="about-paragraph">
-      When I’m not coding, you can find me experimenting with new
-      technologies, optimizing algorithms, or exploring innovative AI
-      solutions. Outside of tech, I enjoy hiking, playing badminton, and
-      competing in coding competitions. Let’s connect and build something
-      amazing!
+      What drives me is the intersection of artificial intelligence, environmental sustainability, and scalable engineering. I believe technology should be a force for positive change, and I'm passionate about building systems that not only perform exceptionally but also contribute to a more sustainable future. When I'm not architecting microservices or debugging distributed systems, you'll find me exploring new AI research, contributing to open-source projects, or planning my next hiking adventure.
     </p>
   </div>
 ));

@@ -13,7 +13,7 @@ export const projects = [
       id: 1,
       title: "Pitch Perfect",
       description:
-        "Developed a full-stack web application enabling users to learn and practice sales skills, integrating user authentication and profile management for personalized learning. Implemented interactive roleplay and active learning features, allowing users to engage in real-time sales training simulations with Al-driven feedback. Designed employer and learner workflows, facilitating career opportunities, employer connections, and AI-based skill assessments, with an Al tool currently in development to enhance training efficiency.",
+        "Developed a full-stack web application enabling users to learn and practice sales skills, integrating user authentication and profile management for personalized learning. Implemented interactive roleplay and active learning features, allowing users to engage in real-time sales training simulations with AI-driven feedback. Designed employer and learner workflows, facilitating career opportunities, employer connections, and AI-based skill assessments, with an AI tool currently in development to enhance training efficiency.",
       image: pitchPerfectImage,
       tags: [
         "Python",
@@ -70,7 +70,7 @@ export const projects = [
       id: 4,
       title: "LipNet",
       description:
-        "Developed an Al-driven sentence-level lipreading model for real-time speech-to-text conversion from lip movements. Integrated Spatiotemporal Convolutions and Recurrent Neural Networks (RNNs) to enhance visual feature extraction and sequence modeling for improved text prediction.",
+        "Developed an AI-driven sentence-level lipreading model for real-time speech-to-text conversion from lip movements. Integrated Spatiotemporal Convolutions and Recurrent Neural Networks (RNNs) to enhance visual feature extraction and sequence modeling for improved text prediction.",
       image: lipnetImage,
       tags: [
         "Python",
